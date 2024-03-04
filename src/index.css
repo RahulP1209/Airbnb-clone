@@ -36,7 +36,7 @@ section {
 }
 
 .hero--photo {
-  max-width: 600px;
+  max-width: 70vw;
   align-self: center;
 }
 
@@ -65,8 +65,8 @@ section {
 }
 
 .card--image {
-  width: 100%;
-  height:60%;
+  width: 80%;
+  height: 60%;
   border-radius: 9px;
   margin-bottom: 9px;
 }
